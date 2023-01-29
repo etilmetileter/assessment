@@ -1,0 +1,26 @@
+LOCKEDME FILE MANAGER DOCUMENTATION (FOR WINDOWS)
+This product has 4 main capabilities, you can operate with them by typing numbers in menu section.
+But menu will operate only in numerical inputs!
+
+1) Adding file
+
+You can add as much as you can ! you can also file extention. 
+Type a file name and we make sure it does exist in your locker
+
+2) Deleting file
+
+You can delete files typing their name, if there is none so you
+should fnf in your console.
+
+3) Searching file
+
+Type a file name and let the program bring it to you!
+If there is no document with related name it says fnf!
+
+
+4) Listing existing files
+
+This option shows your current file's names in ascending order
+
+Be Safe!
+Your files are save with lockedme.com !
